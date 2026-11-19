@@ -1,8 +1,14 @@
-# MacMonitor
+<img width="2000" height="1200" alt="06-Battery" src="https://github.com/user-attachments/assets/2c64369d-c12e-44d3-9726-e8d365493888" /># MacMonitor
 
 **MacMonitor** is a free macOS menu bar monitoring tool developed by Carbon, designed for Macs with Apple silicon.
 
 ### Features
+<img width="2000" height="1200" alt="01-Overview" src="https://github.com/user-attachments/assets/c186709e-4435-4550-a931-c78a67f9c707" />
+<img width="2000" height="1200" alt="05-Network" src="https://github.com/user-attachments/assets/853a0b16-0bb9-4649-b999-66ce43b78a95" />
+<img width="2000" height="1200" alt="04-Storage" src="https://github.com/user-attachments/assets/c9de8606-88a9-44d2-be37-4a71651f4d47" />
+<img width="2000" height="1200" alt="03-Thermals" src="https://github.com/user-attachments/assets/c8483c93-0323-4498-836a-1f0289dd1044" />
+<img width="2000" height="1200" alt="02-Power" src="https://github.com/user-attachments/assets/9b0271bd-1783-4ca3-9043-d98d752f9ec1" />
+<img width="2000" height="1200" alt="06-Battery" src="https://github.com/user-attachments/assets/82cfc4d8-940a-4aa6-bd2c-d30bfd04e127" />
 
 - **Menu Bar Monitoring:** View CPU and memory usage directly in the menu bar, with customizable display modes including dual-line numbers, CPU percentage, usage bars, or icon-only mode.
 - **Detailed System Monitoring:** Open the monitoring panel to view temperatures, fan speeds, disk I/O, network traffic, and power consumption for supported components, including the CPU, GPU, Neural Engine, and other hardware.
