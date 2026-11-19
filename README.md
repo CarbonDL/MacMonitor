@@ -1,4 +1,4 @@
-<img width="2000" height="1200" alt="06-Battery" src="https://github.com/user-attachments/assets/2c64369d-c12e-44d3-9726-e8d365493888" /># MacMonitor
+MacMonitor
 
 **MacMonitor** is a free macOS menu bar monitoring tool developed by Carbon, designed for Macs with Apple silicon.
 
